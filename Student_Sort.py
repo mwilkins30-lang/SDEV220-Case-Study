@@ -1,3 +1,8 @@
+# Martin Wilkins
+# Student_Sort.py
+# This program will sort students into the Dean's List,
+# Honor Roll, or the rest of the students based on their GPA.
+
 quit = "ZZZ"
 deans_list = {}
 honor_roll = {}
